@@ -141,11 +141,15 @@ CultureInfo.DefaultThreadCurrentCulture = cultureInfo;
 
 ## 📸 Screenshots
 
-- **Homepage**: Property listings with search functionality
-- **Login/Register**: Secure authentication system
-- **Booking Management**: Complete CRUD operations
-- **Property Details**: Comprehensive property information
-- **User Dashboard**: Booking history and wishlist management
+- **Homepage**: Property listings with search functionality![WhatsApp Image 2025-10-13 at 9 27 21 PM](https://github.com/user-attachments/assets/13efd89f-f2da-4a1c-913a-1a6e95ffbe6b)
+
+- **Login/Register**: Secure authentication system![WhatsApp Image 2025-10-13 at 9 27 24 PM](https://github.com/user-attachments/assets/acca3454-5bff-45e8-82b0-db0004be8ab6) ![WhatsApp Image 2025-09-20 at 6 46 52 PM](https://github.com/user-attachments/assets/a30457ce-9ee9-444c-9809-3618bbbfa6ba)
+
+- **Booking Management**: Complete CRUD operations![WhatsApp Image 2025-10-13 at 9 27 25 PM](https://github.com/user-attachments/assets/14b853d8-941c-430c-8f5d-a12c9d562550) ![WhatsApp Image 2025-09-20 at 6 45 32 PM](https://github.com/user-attachments/assets/06d20e2d-0a84-45ec-9245-aa5753a7a119)
+
+- **Property Details**: Comprehensive property information ![WhatsApp Image 2025-10-13 at 9 27 23 PM (1)](https://github.com/user-attachments/assets/bbf3dbdc-b9ac-416a-b04d-8587961f2f58) ![WhatsApp Image 2025-10-13 at 9 27 22 PM](https://github.com/user-attachments/assets/ddf9694a-a778-403d-b744-7481b92fe109)
+
+- **User Dashboard**: Booking history and wishlist management ![WhatsApp Image 2025-10-13 at 9 27 26 PM](https://github.com/user-attachments/assets/fed6f510-e081-4342-8e6c-a7f61d28940d)
 
 ## 🤝 Contributing
 
@@ -157,7 +161,7 @@ CultureInfo.DefaultThreadCurrentCulture = cultureInfo;
 
 ## 👨‍💻 Author
 
-**Your Name**
+**DEEKSHITHA.N**
 - GitHub: [@Deeksha765](https://github.com/Deeksha765)
 - Email: 12deekshitha@gmail.com
 
